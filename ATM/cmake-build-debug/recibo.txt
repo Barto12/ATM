@@ -1,0 +1,15 @@
+Fecha y hora: Fri Jun 21 18:42:13 2024
+Operación: Consulta de saldo
+Cantidad: $0.00
+Saldo actual: $1000.00
+-----------------------------------
+Fecha y hora: Fri Jun 21 18:42:35 2024
+Operación: Retiro
+Cantidad: $100.00
+Saldo actual: $900.00
+-----------------------------------
+Fecha y hora: Fri Jun 21 18:54:37 2024
+Operación: Retiro
+Cantidad: $700.00
+Saldo actual: $200.00
+-----------------------------------
